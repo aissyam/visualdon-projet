@@ -18,4 +18,4 @@ Et comme mentionné plus haut la "Bechdel Test Movie List" (https://bechdeltest.
 2. Ces femmes doivent parler entre elles.
 3. Leur conversation doit porter sur un sujet autre qu’un homme.
 
-![wireframe](wireframe-VisualDon.pdf)
+![wireframe](Wireframe-VisualDon.pdf)
