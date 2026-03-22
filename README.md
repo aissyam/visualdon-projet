@@ -17,3 +17,5 @@ Et comme mentionné plus haut la "Bechdel Test Movie List" (https://bechdeltest.
 1. Le film doit contenir au moins deux personnages féminins.
 2. Ces femmes doivent parler entre elles.
 3. Leur conversation doit porter sur un sujet autre qu’un homme.
+
+![wireframe](wireframe-VisualDon.pdf)
